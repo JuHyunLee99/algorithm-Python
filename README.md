@@ -1,2 +1,2 @@
 # Algorithm with Python
-## 1. 그리디(Greedy)
+1. 그리디(Greedy)
