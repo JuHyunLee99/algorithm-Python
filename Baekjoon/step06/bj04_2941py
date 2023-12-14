@@ -1,0 +1,21 @@
+# 2023.12.14
+# 백준
+# 단계별 문제풀이
+# 6단계 심화 1
+# 크로아티아 알파벳
+
+alpas = ['c=', 'c-', 'dz=', 'd-', 'lj', 'nj', 's=', 'z=']
+s = input()
+
+for alpa in alpas:
+    s = s.replace(alpa, '*')
+
+print(len(s))
+
+    
+
+    
+    
+
+
+
